@@ -1,4 +1,4 @@
-# Home_Workout_Lovers# Home_Workout_Lovers
+# Home_Workout_Lovers
 # 宅トレマニア
 
 ## サービス概要
