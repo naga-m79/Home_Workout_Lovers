@@ -8,7 +8,8 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "bootstrap";
-import "../stylesheets/application.scss";
+import "../css/application.scss";
+import "../css/tailwind.config.js";
 import '@fortawesome/fontawesome-free/js/all';
 
 Rails.start()

@@ -1,6 +1,7 @@
 .top-wrapper {
   background-image: image-url("5199756_s.jpg");
-  height: calc(100vh - 134px);
+  min-height: 100vh;
+  background-size: cover;
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,4 +20,17 @@
       font-size: 2.0rem;
     }
   }
+}
+.homeicon {
+  color: rgba(75, 194, 197, 1);
+}
+
+.top-message {
+  margin-top: 60px;
+}
+.top-message p {
+  text-align: center;
+  font-size: 1.5em;
+  color: rgba(113, 122, 122, 1);
+  margin-top: 30px;
 }
